@@ -1,0 +1,7 @@
+# Ignorar entorno virtual
+venv/
+
+# Otros archivos y carpetas temporales que puedes ignorar
+__pycache__/
+*.pyc
+*.pyo
